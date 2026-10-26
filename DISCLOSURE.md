@@ -3,7 +3,7 @@
 **Title:** Potential Security Vulnerability in Telegram Bot API – Unauthorized Login Code Triggers  
 
 **Date Reported:** August 19, 2025  
-**Reporter:** Fasasi Abdulrahman Ayomide ([@Gill728](https://t.me/Gill728), fasasiayomide03@gmail.com)  
+**Reporter:** StarkNil ([@Gill728](https://t.me/Gill728), dev.mail.1234.8888@gmail.com)  
 **Status:** Report submitted to `security@telegram.org` on August 19, 2025. No acknowledgment received as of *[insert date]*.  
 
 ---
