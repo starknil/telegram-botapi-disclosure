@@ -4,7 +4,7 @@
 
 **Date Reported:** August 19, 2025  
 **Reporter:** StarkNil ([@Gill728](https://t.me/Gill728), dev.mail.1234.8888@gmail.com)  
-**Status:** Report submitted to `security@telegram.org` on August 19, 2025. No acknowledgment received as of *[insert date]*.  
+**Status:** Report submitted to `security@telegram.org` on August 19, 2025. No acknowledgment received as of *[22-08-2025]*.  
 
 ---
 
