@@ -23,8 +23,8 @@ Observed behavior suggests that this requirement can be bypassed under certain c
 
 ## 📅 Disclosure Timeline
 - **19 Aug 2025** → Full report (with evidence) submitted to `security@telegram.org`.  
-- **[26-08-25]** → Sent reminders.  
-- **[01-08-25]** → No acknowledgment received after 7 days. This summary published for transparency.  
+- **[22-08-25]** → Sent reminders.  
+- **[26-08-25]** → No acknowledgment received after 7 days. This summary published for transparency.  
 
 ---
 
