@@ -1,8 +1,8 @@
 # Telegram Bot API Vulnerability Disclosure
 
 📌 **Status:** Reported to Telegram Security Team on **August 19, 2025**  
-📌 **Researcher:** Fasasi Abdulrahman Ayomide ([@Gill728](https://t.me/Gill728))  
-📌 **Contact:** fasasiayomide03@gmail.com  
+📌 **Researcher:** Stark Nil ([@Gill728](https://t.me/Gill728))  
+📌 **Contact:** dev.mail.1234.8888@gmail.com  
 
 ---
 
@@ -23,8 +23,8 @@ Observed behavior suggests that this requirement can be bypassed under certain c
 
 ## 📅 Disclosure Timeline
 - **19 Aug 2025** → Full report (with evidence) submitted to `security@telegram.org`.  
-- **[Follow-up dates here]** → Sent reminders.  
-- **[Future date]** → No acknowledgment received after X days. This summary published for transparency.  
+- **[26-08-25]** → Sent reminders.  
+- **[01-08-25]** → No acknowledgment received after 7 days. This summary published for transparency.  
 
 ---
 
@@ -43,6 +43,6 @@ If Telegram acknowledges and fixes this issue, I will update the repo accordingl
 ---
 
 ## 🙋‍♂️ Author
-**Fasasi Abdulrahman Ayomide**  
-- Email: fasasiayomide03@gmail.com  
+**Stark Nil**  
+- Email: dev.mail.1234.8888@gmail.com  
 - Telegram: [@Gill728](https://t.me/Gill728)  
